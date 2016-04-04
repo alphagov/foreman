@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This fork is no longer maintained.
+
 # Foreman
 
 ## Installation
